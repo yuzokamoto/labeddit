@@ -6,8 +6,8 @@
 
 ![Labetinder Demo](https://github.com/yuzokamoto/labeddit/blob/master/visuals/AJKDxNqkjr.gif)
 
-### email: johndoe@gmail.com
-### password: 123abc
+### Email de Teste: johndoe@gmail.com
+### Password de Teste: 123abc
 
 <hr />
 
